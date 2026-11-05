@@ -3,7 +3,7 @@
 **Terakhir diperbarui:** 6 November 2026
 **Tahap:** Diskusi konsep dan isi, **belum membuat katalog final**
 **Halaman yang sedang dibahas:** PDF referensi halaman 1 — sampul depan dan belakang
-**Status persetujuan halaman 1:** BELUM DIPUTUSKAN
+**Status persetujuan halaman 1:** SEBAGIAN DETAIL SUDAH DISETUJUI; SAMPUL BELUM FINAL
 
 ## Tujuan
 Menyusun katalog profesional CV. Aneka Konveksi Bandung (AKB) untuk presentasi dan penawaran seragam sekolah, dengan PDF **FlynnO'Hara Uniforms - 2026 Product Catalog.pdf** sebagai *referensi alur halaman dan gaya visual*, bukan untuk menyalin merek atau konten mereka secara langsung.
@@ -27,7 +27,7 @@ Menyusun katalog profesional CV. Aneka Konveksi Bandung (AKB) untuk presentasi d
 
 | Tahap | Halaman PDF referensi | Fokus | Status |
 | --- | --- | --- | --- |
-| 01 | 1 | Sampul depan dan belakang | Sedang didiskusikan; belum disetujui |
+| 01 | 1 | Sampul depan dan belakang | Logo, judul, tahun berdiri, website sudah ditentukan; detail visual belum final |
 | 02 | 2 | Elemen identitas/branding | Belum dibahas |
 | 03 | 3 | Daftar isi | Belum dibahas |
 | 04 | 4-6 | Profil, keunggulan, layanan, personalisasi | Belum dibahas |
@@ -42,17 +42,21 @@ Nomor halaman pada tabel adalah **halaman PDF**, bukan nomor halaman cetak yang 
 - Proses dilakukan bertahap sampai setiap detail halaman dibahas.
 - Setiap hasil pembahasan disimpan di GitHub `hazimfalah/AKB` agar progres bisa dilanjutkan.
 - File katalog final ditunda sampai pengguna memintanya.
+- Cover: pakai **logo AKB asli sesuai gambar pengguna**, dalam warna biru-oranye aslinya tanpa perubahan.
+- Cover: judul **Product Catalog**.
+- Cover: cantumkan **Since 2013** dan website **anekakonveksibandung.id**.
+- Referensi arah visual: cover FlynnO'Hara yang dibagikan pengguna; modifikasi dengan identitas AKB.
 
 ## Hal yang BELUM disepakati
 - Bentuk/format, ukuran, jumlah halaman final, dan bahasa utama.
-- Palet warna, sistem font, logo final, serta gaya fotografi.
-- Konsep/copy/komposisi sampul.
+- Palet warna final, sistem font, penempatan logo, serta gaya fotografi. **Logo asli sudah dipilih untuk cover.**
+- Foto utama dan komposisi rinci sampul serta sampul belakang. **Judul cover sudah dipilih: Product Catalog.**
 - Struktur kategori produk dan detail katalog.
 - Apakah mencantumkan harga.
 - Informasi kontak dan QR code publikasi.
 
 ## Lanjutkan dari sini
-Baca [01-sampul.md](01-sampul.md), lalu diskusikan **sampul (PDF halaman 1)**. Tanyakan dan catat keputusan desain sampul sebelum pindah ke halaman berikutnya.
+Baca [01-sampul.md](01-sampul.md), lalu diskusikan **sampul (PDF halaman 1)**. **Lanjut dengan pilihan foto utama cover** (rak beberapa seragam / model siswa / produk atau kolase), lalu catat keputusan sebelum membahas elemen sampul berikutnya.
 
 ## Catatan privasi
 Saat penulisan, repository `hazimfalah/AKB` berstatus **public**. Simpan hanya catatan konseptual yang aman untuk publik; hindari harga internal, identitas pribadi, kontrak, atau dokumen rahasia.
